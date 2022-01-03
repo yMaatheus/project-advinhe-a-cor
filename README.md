@@ -278,7 +278,7 @@ Neste projeto, você implementará um adivinhador de cor RGB. Ou seja, dada uma 
 
 - Será verificado que a class de todos os círculos deve ser ball.
 
-### 4 - Adicione cores nas bolas, elas devem ser geradas dinâmicamente
+### 4 - Adicione cores nas bolas, elas devem ser geradas dinamicamente
 
 **O que será verificado:**
 
