@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+.circle-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 500px;
+  margin: 3em auto;
+}
+
+.ball {
+  border: 1px solid black;
+  border-radius: 100%;
+  width: 70px;
+  height: 70px;
+}
